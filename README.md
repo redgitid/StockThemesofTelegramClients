@@ -1,1 +1,1 @@
-# StockThemesofTelegramClients
+# Stock Themes of Telegram Clients
